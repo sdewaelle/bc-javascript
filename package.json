@@ -27,6 +27,7 @@
 		"nodemon": "^1.19.2",
 		"request": "^2.88.0",
 		"request-promise": "^4.2.4",
+		"secure-password": "^3.1.0",
 		"sha256": "^0.2.0",
 		"uuid": "^3.3.3"
 	}
